@@ -11,6 +11,7 @@
 - TWIS module ([#196]).
 - PWM module ([#200]).
 - I2S module ([#201]).
+- Add support for the nRF52811.
 
 ### Fixes
 
